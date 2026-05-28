@@ -1,0 +1,37 @@
+{
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Models/Recipe.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/Recipe.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/Recipe.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/Recipe.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/Recipe.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/Recipe.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Persistence/PersistenceController.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/PersistenceController.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/PersistenceController.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/PersistenceController.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/PersistenceController.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/PersistenceController.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Routing/AppRouter.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AppRouter.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AppRouter.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AppRouter.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AppRouter.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AppRouter.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Services/AuthService.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthService.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthService.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthService.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthService.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Services/ImageCacheService.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ImageCacheService.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ImageCacheService.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ImageCacheService.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ImageCacheService.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ImageCacheService.swiftdeps"
+  }
+}

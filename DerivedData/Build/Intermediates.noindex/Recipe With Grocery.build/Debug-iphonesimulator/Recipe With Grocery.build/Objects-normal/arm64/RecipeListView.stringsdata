@@ -1,0 +1,40 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Recipe/RecipeListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Discover",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recipe With Grocery",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 57
+        }
+      }
+    ]
+  },
+  "version": 1
+}

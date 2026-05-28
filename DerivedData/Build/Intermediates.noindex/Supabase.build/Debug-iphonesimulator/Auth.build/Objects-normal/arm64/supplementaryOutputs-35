@@ -1,0 +1,23 @@
+{
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/Keychain.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Keychain.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Keychain.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Keychain.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Keychain.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Keychain.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/PKCE.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/SessionManager.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.swiftdeps"
+  }
+}

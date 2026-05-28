@@ -1,0 +1,24 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Splash/SplashView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Recipe With Grocery",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cook beautifully, shop intelligently.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,30 @@
+{
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Delegated.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Delegated.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Delegated.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Delegated.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Delegated.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Delegated.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Deprecated.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Deprecated.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Deprecated.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Deprecated.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Deprecated.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Deprecated.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/HeartbeatTimer.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/HeartbeatTimer.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/HeartbeatTimer.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/HeartbeatTimer.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/HeartbeatTimer.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/HeartbeatTimer.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/PhoenixTransport.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PhoenixTransport.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PhoenixTransport.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PhoenixTransport.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PhoenixTransport.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PhoenixTransport.swiftdeps"
+  }
+}

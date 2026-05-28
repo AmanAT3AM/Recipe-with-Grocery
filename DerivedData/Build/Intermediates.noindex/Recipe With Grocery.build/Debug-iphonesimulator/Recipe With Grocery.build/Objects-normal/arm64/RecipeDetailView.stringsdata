@@ -1,0 +1,40 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Recipe/RecipeDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tab",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add to Grocery List",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "Added to grocery list",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 251
+        }
+      }
+    ]
+  },
+  "version": 1
+}

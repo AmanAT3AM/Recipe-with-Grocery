@@ -1,0 +1,4 @@
+module GoogleUtilities_Environment {
+umbrella "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public"
+export *
+}

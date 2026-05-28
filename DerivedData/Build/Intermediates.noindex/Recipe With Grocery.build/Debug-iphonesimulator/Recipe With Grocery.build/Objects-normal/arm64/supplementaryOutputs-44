@@ -1,0 +1,30 @@
+{
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Recipe/RecipeDetailView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeDetailView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeDetailView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeDetailView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeDetailView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeDetailView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Recipe/RecipeListView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeListView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeListView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeListView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeListView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/RecipeListView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SettingsView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SettingsView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Splash/SplashView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SplashView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SplashView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SplashView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SplashView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SplashView.swiftdeps"
+  }
+}

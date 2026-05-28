@@ -1,0 +1,48 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/AuthFlowView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Food Buddy",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cook with feeling.",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start a lighter kitchen.",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in to keep your favorites, grocery list, and recipes in one soft, bright space.",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create your account and save the meals you love with a clean, airy interface.",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 67
+        }
+      }
+    ]
+  },
+  "version": 1
+}

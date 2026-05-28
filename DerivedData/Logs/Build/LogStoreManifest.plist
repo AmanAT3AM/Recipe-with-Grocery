@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>33CBAF5C-E84E-414D-ACF8-999FF822C624</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33CBAF5C-E84E-414D-ACF8-999FF822C624.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>13</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Recipe With Grocery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Recipe With Grocery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Recipe With Grocery with scheme Recipe With Grocery</string>
+			<key>timeStartedRecording</key>
+			<real>801600845.88172495</real>
+			<key>timeStoppedRecording</key>
+			<real>801600850.73938704</real>
+			<key>title</key>
+			<string>Building project Recipe With Grocery with scheme Recipe With Grocery</string>
+			<key>uniqueIdentifier</key>
+			<string>33CBAF5C-E84E-414D-ACF8-999FF822C624</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

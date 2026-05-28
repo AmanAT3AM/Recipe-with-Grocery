@@ -1,0 +1,37 @@
+{
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/AuthFlowView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthFlowView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthFlowView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthFlowView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthFlowView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AuthFlowView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/LoginView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/LoginView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/LoginView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/ResetPasswordView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ResetPasswordView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ResetPasswordView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ResetPasswordView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ResetPasswordView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/ResetPasswordView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/SignUpView.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SignUpView.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SignUpView.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SignUpView.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SignUpView.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/SignUpView.swiftdeps"
+  },
+  "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Components/AsyncCachedImage.swift" : {
+    "const-values" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AsyncCachedImage.swiftconstvalues",
+    "dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AsyncCachedImage.d",
+    "diagnostics" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AsyncCachedImage.dia",
+    "object" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AsyncCachedImage.o",
+    "swift-dependencies" : "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/Build/Intermediates.noindex/Recipe With Grocery.build/Debug-iphonesimulator/Recipe With Grocery.build/Objects-normal/arm64/AsyncCachedImage.swiftdeps"
+  }
+}

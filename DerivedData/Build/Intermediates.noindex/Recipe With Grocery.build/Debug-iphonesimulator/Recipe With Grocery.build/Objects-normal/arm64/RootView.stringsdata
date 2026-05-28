@@ -1,0 +1,32 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/RootView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Recipe, grocery, and favorites in one polished flow.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "A production-ready SwiftUI foundation with smooth navigation, local auth, and a modern visual language.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get started",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 86
+        }
+      }
+    ]
+  },
+  "version": 1
+}

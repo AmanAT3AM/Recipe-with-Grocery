@@ -1,0 +1,40 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Login Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Forgot password?",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a new account",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 67
+        }
+      }
+    ]
+  },
+  "version": 1
+}

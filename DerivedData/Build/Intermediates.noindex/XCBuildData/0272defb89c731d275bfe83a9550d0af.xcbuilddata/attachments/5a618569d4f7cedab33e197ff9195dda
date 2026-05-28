@@ -1,0 +1,4 @@
+module AppAuth {
+umbrella "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/AppAuth-iOS/Sources/AppAuth"
+export *
+}

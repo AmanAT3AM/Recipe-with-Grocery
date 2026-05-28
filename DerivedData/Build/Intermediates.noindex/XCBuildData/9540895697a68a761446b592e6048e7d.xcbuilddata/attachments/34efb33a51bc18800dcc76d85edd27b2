@@ -1,0 +1,4 @@
+module AppCheckCore {
+umbrella header "/Users/apple/Documents/Aman /Recipe With Grocery/DerivedData/SourcePackages/checkouts/app-check/AppCheckCore/Sources/Public/AppCheckCore/AppCheckCore.h"
+export *
+}

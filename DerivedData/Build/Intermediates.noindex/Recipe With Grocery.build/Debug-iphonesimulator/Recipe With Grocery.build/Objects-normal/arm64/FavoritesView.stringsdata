@@ -1,0 +1,16 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Favorites/FavoritesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Favorites",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 33
+        }
+      }
+    ]
+  },
+  "version": 1
+}

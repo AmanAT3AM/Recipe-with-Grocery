@@ -1,0 +1,40 @@
+{
+  "source": "/Users/apple/Documents/Aman /Recipe With Grocery/Recipe With Grocery/Views/Auth/SignUpView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign Up Error",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password must contain 6+ characters, 1 uppercase letter, and 1 number.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Already have an account? Login",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 65
+        }
+      }
+    ]
+  },
+  "version": 1
+}
